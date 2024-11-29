@@ -1,7 +1,7 @@
 ## Hi! I'm Vanessa Tran.
 
-- 🔭 I’m currently working on: my blog at [amvanessa.ca](https://amvanessa.ca)
-- 🌱 I’m currently learning: All sorts of things...Java with SpringBoot, Javascript ES6, Typescript (with React & Angular)
+- 🔭 My personal consultant company and I am open for any opportunities now [vanntechs.com](https://vanntechs.com)
+- 🌱 I’m currently learning: All sorts of things...Java with SpringBoot, Javascript ES6, Typescript (with React & Angular), C# (with .NET 6 to 8)
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [here](https://www.linkedin.com/in/minhthytran/)
 - 😄 Pronouns: she/her
