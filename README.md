@@ -10,6 +10,6 @@
 
 ## Profile stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thytran142&show_icons=true&theme=github_dark)](https://github.com/thytran142/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minh.thy.tran&show_icons=true&theme=github_dark)](https://github.com/thytran142/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thytran142&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minh.thy.tran&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
